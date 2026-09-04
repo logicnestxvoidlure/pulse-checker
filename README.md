@@ -196,7 +196,7 @@ header('Access-Control-Allow-Headers: Content-Type, X-PulseCheck-Token');
 - **Live Demo:** https://pulsecheck-umber.vercel.app
 - **Backend API:** https://pulse-checkerapi.onrender.com
 - **Repository:** https://github.com/logicnestxvoidlure/pulse-checker
-- **API Documentation:** [API Docs](https://github.com/logicnestxvoidlure/pulse-checker#readme)
+- **API Documentation:** [API Docs](https://pulsecheck-umber.vercel.app/apidocs.html)
 
 ---
 
