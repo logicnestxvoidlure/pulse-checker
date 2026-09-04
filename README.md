@@ -1,5 +1,3 @@
-
-
 # 📊 PulseCheck Dashboard
 
 > A beautiful, real-time uptime monitoring dashboard for tracking website availability, response times, and performance history. This frontend connects to the public PulseCheck API.
@@ -204,7 +202,7 @@ header('Access-Control-Allow-Headers: Content-Type, X-PulseCheck-Token');
 
 ## 📝 License
 
-MIT License - Free to use and modify.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
